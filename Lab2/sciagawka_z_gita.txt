@@ -4,3 +4,6 @@ git clone "adres_repo" - utworzenie podkatalogu z repo
 git rm - usuwanie pliku z repo lokalnego
 git restore - przywracanie usunietego pliku
 git rm --cached - usuwanie pliku z repo zdalnego
+git add - umieszczanie plikow w "poczekalni"
+git config - poprzez ta komende mozemy ustawic adres e-mail oraz imie i nazwisko
+git status - sprawdzenie stanu, mozemy np. sprawdzic czy mam jakis commit do wykonania
