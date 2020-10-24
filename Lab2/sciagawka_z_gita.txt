@@ -1,0 +1,6 @@
+git commit -m "xxxxxxx" - opis zatwierdzonych zmian
+git push origin master - umieszczenie repo na zdalnym serwerze
+git clone "adres_repo" - utworzenie podkatalogu z repo
+git rm - usuwanie pliku z repo lokalnego
+git restore - przywracanie usunietego pliku
+git rm --cached - usuwanie pliku z repo zdalnego
