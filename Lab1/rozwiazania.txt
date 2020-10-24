@@ -1,19 +1,29 @@
 Zadanie 1 
+Utworzenie nowego repozytorium i stworzenie pierwszego commita.
 
 Zadanie 2
+Umieszczanie zmian na zdalnym repozytorium.
 
 Zadanie 3
+Tworzenie kopii zdalnego repozytorium.
 
 Zadanie 4
+Poczekalnia, śledzenie plików, przywracanie zmian.
 
 Zadanie 5
+Usuwanie plików i przywracanie usuniętego pliku.
 
 Zadanie 6
+Tworzenie pliku .gitignore z maskami plików do pomijania.
 
 Zadanie 7
+Historia repozytorium, przywracanie poprzednich wersji repozytorium.
 
 Zadanie 8
+Tworzenie, usuwanie i mergowanie gałęzi.
 
 Zadanie 9
+Rozwiązywanie konfliktu podczas pushowania/pullowania.
 
 Zadanie 10
+Tworzenie certyfikatu do połączenie szyfrowanego ssh.
